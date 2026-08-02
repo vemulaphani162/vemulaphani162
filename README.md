@@ -139,25 +139,25 @@ Additional work is actively being built and shipped. Check pinned repositories a
 
 ## Achievements
 
-| Achievement | Event |
-|---|---|
-| Top 3 | 24-Hour National Level Anveshana 2K26 |
-| Top 4 | 24-Hour National Level ASME Hackathon, SCET College |
-| Top 4 | Prakalp Project Expo, RCEE College |
-| 1st Place | ISTE Student Chapter Treasure Hunt Competition |
+- **Top 3** — 24-Hour National Level *Anveshana 2K26*
+- **Top 4** — 24-Hour National Level *ASME Hackathon*, SCET College
+- **Top 4** — *Prakalp Project Expo*, RCEE College
+- **1st Place** — ISTE Student Chapter *Treasure Hunt* Competition
 
 <br/>
 
 ## Certifications
 
-| Certification | Issuing Organization |
-|---|---|
-| Certified System Administrator (CSA) | ServiceNow |
-| Building RAG Apps Using MongoDB | MongoDB |
-| Claude with the Anthropic API | Anthropic |
-| Generative AI for Developers | Google |
-| OOPs through Java Programming | Infosys Springboard |
-| Solutions Architecture Job Simulation | AWS |
+<div align="center">
+
+<img src="https://img.shields.io/badge/ServiceNow-Certified_System_Administrator-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-Building_RAG_Apps-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-Claude_with_the_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-Generative_AI_for_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Infosys_Springboard-OOPs_through_Java-002B5C?style=for-the-badge&logo=infosys&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Solutions_Architecture_Job_Sim-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
 
 <br/>
 
